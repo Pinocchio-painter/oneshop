@@ -1,0 +1,44 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.logo-box{
+	height:10px;
+	padding-top:10px;
+}
+.left{float:left;}
+.wrap{width:990px;margin:0 auto;}
+.div1{
+	font-size:12px;
+	padding-left:700px;
+	margin-top:-50px;
+	float:left;
+}
+#wrap {
+	width:982px;
+	margin:0 auto;
+}
+#{
+	font-size:18px;
+	padding-left:100px;
+	margin-top:50px;
+	float:left;
+}
+.tableItem{
+	font-size:18px;
+	padding-left:100px;
+	margin-top:50px;
+	float:left;
+}
+.cf{
+	font-size:18px;
+	padding-left:100px;
+	margin-top:50px;
+	float:left;
+}
+.userPhone{
+	font-size:18px;
+	padding-left:100px;
+	margin-top:50px;
+	float:left;
+}

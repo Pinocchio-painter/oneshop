@@ -1,0 +1,55 @@
+.div1{
+	position:relative;left:25%;
+	}
+.div2{
+	float:right;
+	}
+#search{
+
+        width: 155px;
+
+        height: 30px;
+
+        background: black;
+
+        color: white;
+
+        text-align: center;
+		
+		position:relative;left:25%;
+
+        line-height: 32px;
+
+        cursor: pointer;
+
+    }
+	#search1{
+
+        width: 130px;
+
+        height: 30px;
+
+        background: #666;
+
+        color: white;
+
+        text-align: center;
+		
+		position:relative;left:65%;
+
+        line-height: 32px;
+
+        cursor: pointer;
+
+    }
+	    #box{
+
+        width: 380px;
+
+        margin: 30px auto;
+
+        font-family: 'Microsoft YaHei';
+
+        font-size: 18px;
+
+    }
